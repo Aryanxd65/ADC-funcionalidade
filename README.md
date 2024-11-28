@@ -1,0 +1,2 @@
+# ADC-funcionalidade
+Adc funcionalidade
